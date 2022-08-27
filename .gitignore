@@ -31,7 +31,8 @@ example*/*
 ################################################################################
 
 # Exclude 3rd party libs by default.
-libs/*
+# this is an obstacle, hard to initialize so I'm just going to commit it to the repo
+#libs/*
 
 # Don't exclude ofx libs by default.
 !libs/ofx*
